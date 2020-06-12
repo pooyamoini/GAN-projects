@@ -1,4 +1,3 @@
-
 # DCGAN
 
 in the 'DCGAN-celebs' notebook we findout about GAN and DCGAN so in this notebook we wont discuss about GAN or DCGAN and we'll just implement the code.
