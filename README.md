@@ -17,7 +17,7 @@ But of course, model architectures will not exactly the same as proposed in the 
 ## ThisCatDoesntExist
 _Deep Convolutional Generative Adversarial Network_
 #### ABSTRACT
-DCGAN implementation of cats dataset. I've implemented a model that generates 64 * 64 images of cats. <br/>
+DCGAN implementation on cats dataset. I've implemented a model that generates 64 * 64 images of cats. <br/>
 <p><img src="DCGAN/ThisCatDoesntExist/catexample.png"\></p>
 
 [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](DCGAN/ThisCatDoesntExist)
