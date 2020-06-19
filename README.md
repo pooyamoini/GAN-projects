@@ -40,11 +40,19 @@ Some examples that are generated from this model:
 _Deep Convolutional Generative Adversarial Network_
 #### ABSTRACT
 DCGAN implementation on cats dataset. I've implemented a model that generates 64 * 64 images of cats. <br/>
+<p><img src="DCGAN/mnist%20dataset/DCGAN_mnist_files/DCGAN_mnist_14_1.png"\></p>
+
+[[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](DCGAN/mnist%20datase)
+
+## NumberGenerator
+_Deep Convolutional Generative Adversarial Network_
+#### ABSTRACT
+DCGAN implementation on mnist dataset. I've implemented a model that generates 32 * 32 images of numbers. <br/>
 <p><img src="DCGAN/ThisCatDoesntExist/catexample.png"\></p>
 
 [[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](DCGAN/ThisCatDoesntExist)
 
-## NumberGenerator
+
 ## MonetToPhoto
 _Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks_
 #### ABSTRACT
