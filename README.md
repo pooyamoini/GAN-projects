@@ -23,7 +23,7 @@ Some examples that are generated from this model:
 <p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisAnimeCharacterDoesntExist/AnimeGenerator_files/AnimeGenerator_28_0.png"\></p>
 <p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisAnimeCharacterDoesntExist/AnimeGenerator_files/AnimeGenerator_29_0.png"\></p>
 
-[[Paper]](https://arxiv.org/pdf/1708.05509.pdf) [[Code]](DCGAN/ThisAnimeCharacterDoesntExist) [[Html]](http://ce.sharif.edu/~pmoeini/anime.html)
+[[Paper]](https://arxiv.org/pdf/1708.05509.pdf) [[Code]](DCGAN/ThisAnimeCharacterDoesntExist) [[Html_Code]](http://ce.sharif.edu/~pmoeini/anime.html)
 
 ## ThisPersonDoesntExist
 _Deep Convolutional Generative Adversarial Network_
@@ -34,23 +34,23 @@ Some examples that are generated from this model:
 <p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisPersonDoesntExist/images/Unknown-11.png"\></p>
 <p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisPersonDoesntExist/images/Unknown-12.png"\></p>
 
-[[Paper]](https://arxiv.org/pdf/1511.06434.pdf) [[Code]](DCGAN/ThisPersonDoesntExist) [[Html Code]](http://ce.sharif.edu/~pmoeini/celeba.html)
+[[Paper]](https://arxiv.org/pdf/1511.06434.pdf) [[Code]](DCGAN/ThisPersonDoesntExist) [[Html_Code]](http://ce.sharif.edu/~pmoeini/celeba.html)
 
 ## ThisCatDoesntExist
 _Deep Convolutional Generative Adversarial Network_
 #### ABSTRACT
 DCGAN implementation on cats dataset. I've implemented a model that generates 64 * 64 images of cats. <br/>
-<p><img src="DCGAN/mnist%20dataset/DCGAN_mnist_files/DCGAN_mnist_14_1.png"\></p>
+<p><img src="DCGAN/ThisCatDoesntExist/catexample.png"\></p>
 
-[[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](DCGAN/ThisCatDoesntExist) [[Html Code]]((http://ce.sharif.edu/~pmoeini/thiscatdoesntexist.html))
+[[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](DCGAN/ThisCatDoesntExist) [[Html_Code]]((http://ce.sharif.edu/~pmoeini/thiscatdoesntexist.html))
 
 ## NumberGenerator
 _Deep Convolutional Generative Adversarial Network_
 #### ABSTRACT
 DCGAN implementation on mnist dataset. I've implemented a model that generates 32 * 32 images of numbers. <br/>
-<p><img src="DCGAN/ThisCatDoesntExist/catexample.png"\></p>
+<p><img src="DCGAN/mnist%20dataset/DCGAN_mnist_files/DCGAN_mnist_14_1.png"\></p>
  
-[[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](DCGAN/mnist%20datase) [[Html Code]]((http://ce.sharif.edu/~pmoeini/mnist.html))
+[[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](DCGAN/mnist%20datase) [[Html Html_Code]]((http://ce.sharif.edu/~pmoeini/mnist.html))
 
 
 ## MonetToPhoto
@@ -60,4 +60,4 @@ CycleGAN implementation on monet painting dataset. In this project we have to mo
 to real images and the other one, convert images into monet painting space.
 <p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/CycleGAN/CycleGAN_monet_files/CycleGAN_monet_28_0.png"\></p>
 
-[[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](CycleGAN) [[Html Code]]((http://ce.sharif.edu/~pmoeini/monet.html))
+[[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](CycleGAN) [[Html_Code]]((http://ce.sharif.edu/~pmoeini/monet.html))
