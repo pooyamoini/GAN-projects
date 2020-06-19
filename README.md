@@ -13,6 +13,18 @@ But of course, model architectures will not exactly the same as proposed in the 
   
  
 ## ThisAnimeCharacterDoesntExist
+_Deep Convolutional Generative Adversarial Network_
+#### ABSTRACT
+DCGAN implementation on anime-faces dataset. I've implemented a model that generates 64 * 64 anime faces. <br/>
+Some examples that are generated from this model:
+
+<p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisAnimeCharacterDoesntExist/AnimeGenerator_files/AnimeGenerator_26_0.png"\></p>
+<p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisAnimeCharacterDoesntExist/AnimeGenerator_files/AnimeGenerator_27_0.png"\></p>
+<p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisAnimeCharacterDoesntExist/AnimeGenerator_files/AnimeGenerator_28_0.png"\></p>
+<p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisAnimeCharacterDoesntExist/AnimeGenerator_files/AnimeGenerator_29_0.png"\></p>
+
+[[Paper]](https://arxiv.org/pdf/1708.05509.pdf) [[Code]](DCGAN/ThisAnimeCharacterDoesntExist)
+
 ## ThisPersonDoesntExist
 ## ThisCatDoesntExist
 _Deep Convolutional Generative Adversarial Network_
