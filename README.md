@@ -26,6 +26,16 @@ Some examples that are generated from this model:
 [[Paper]](https://arxiv.org/pdf/1708.05509.pdf) [[Code]](DCGAN/ThisAnimeCharacterDoesntExist)
 
 ## ThisPersonDoesntExist
+_Deep Convolutional Generative Adversarial Network_
+#### ABSTRACT
+DCGAN implementation on CelebA dataset. I've implemented a model that generates 64 * 64 faces. <br/>
+Some examples that are generated from this model:
+<p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisPersonDoesntExist/images/Unknown-10.png"\></p>
+<p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisPersonDoesntExist/images/Unknown-11.png"\></p>
+<p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisPersonDoesntExist/images/Unknown-12.png"\></p>
+
+[[Paper]](https://arxiv.org/pdf/1511.06434.pdf) [[Code]](DCGAN/ThisPersonDoesntExist)
+
 ## ThisCatDoesntExist
 _Deep Convolutional Generative Adversarial Network_
 #### ABSTRACT
