@@ -34,7 +34,7 @@ Some examples that are generated from this model:
 <p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisPersonDoesntExist/images/Unknown-11.png"\></p>
 <p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/DCGAN/ThisPersonDoesntExist/images/Unknown-12.png"\></p>
 
-[[Paper]](https://arxiv.org/pdf/1511.06434.pdf) [[Code]](DCGAN/ThisPersonDoesntExist) [[Html]]((http://ce.sharif.edu/~pmoeini/celeba.html))
+[[Paper]](https://arxiv.org/pdf/1511.06434.pdf) [[Code]](DCGAN/ThisPersonDoesntExist) [[Html]](http://ce.sharif.edu/~pmoeini/celeba.html)
 
 ## ThisCatDoesntExist
 _Deep Convolutional Generative Adversarial Network_
