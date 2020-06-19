@@ -24,3 +24,10 @@ DCGAN implementation on cats dataset. I've implemented a model that generates 64
 
 ## NumberGenerator
 ## MonetToPhoto
+_Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks_
+#### ABSTRACT
+CycleGAN implementation on monet painting dataset. In this project we have to model that the first one convert monet painting
+to real images and the other one, convert images into monet painting space.
+<p><img src="https://github.com/pooyamoini/GAN-projects/blob/master/CycleGAN/CycleGAN_monet_files/CycleGAN_monet_28_0.png"\></p>
+
+[[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](CycleGAN)
