@@ -15,5 +15,12 @@ But of course, model architectures will not exactly the same as proposed in the 
 ## ThisAnimeCharacterDoesntExist
 ## ThisPersonDoesntExist
 ## ThisCatDoesntExist
+_Deep Convolutional Generative Adversarial Network_
+#### ABSTRACT
+DCGAN implementation of cats dataset. I've implemented a model that generates 64 * 64 images of cats.<br/>
+Example:
+<img src="DCGAN/ThisCatDoesntExist/catexample.png"\>
+[[Paper]](https://arxiv.org/abs/1511.06434) [[Code]](dcgan/ThisCatDoesntExist)
+
 ## NumberGenerator
 ## MonetToPhoto
